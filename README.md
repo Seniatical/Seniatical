@@ -1,16 +1,21 @@
 ### Hi there 👋
+I am Seniatical or Isa, i work for a private company called `Slitherins` they focus on security and network enchancements! Only way of reaching them is in person but we mainly focus on improving existing network models and creating the internet a safer place.
 
-<!--
-**Seniatical/Seniatical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Achievements
+Rewrote the UDP and TCP network protocol - For fun we have no use for it.
 
-Here are some ideas to get you started:
+Created a DDoS defence which included automatic blocking, server shut off
+  Currently serving 30 servers across the UK!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Created a private sourced graphical server monitoring system - G4S (soon to be renamed due to some copyright issues)
+  Allows users to monitor and execute CLI commands
+  Keep track of everything, starting from current connections, data usage and current threats
+  Inbuilt log searching mechanism which can read 1k lines per 10 seconds
+    - Allows users to search for the correct data
+    - Includes REGEX, force_types, IP, CONTENT and more ways to search for the correct log
+
+#### Current Projects
+Mecha Karen - A multifunctional discord bot
+API - Allows other developers to do many things ranging from editing images to chatting with a self learning AI
+
+Link to API - https://api.mechakaren.xyz/
