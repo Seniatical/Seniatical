@@ -4,18 +4,18 @@ I am Seniatical or Isa, i work for a private company called `Slitherins` they fo
 #### Current Achievements
 Rewrote the UDP and TCP network protocol - For fun we have no use for it.
 
-Created a DDoS defence which included automatic blocking, server shut off\
-  Currently serving 30 servers across the UK!
+Created a DDoS defence which included automatic blocking, server shut off<br/>
+  Currently serving 30 servers across the UK!<br/>
 
-Created a private sourced graphical server monitoring system - G4S (soon to be renamed due to some copyright issues)\
-  Allows users to monitor and execute CLI commands\
-  Keep track of everything, starting from current connections, data usage and current threats\
-  Inbuilt log searching mechanism which can read 1k lines per 10 seconds\
-    - Allows users to search for the correct data\
-    - Includes REGEX, force_types, IP, CONTENT and more ways to search for the correct log
+Created a private sourced graphical server monitoring system - G4S (soon to be renamed due to some copyright issues)<br/>
+  Allows users to monitor and execute CLI commands<br/>
+  Keep track of everything, starting from current connections, data usage and current threats<br/>
+  Inbuilt log searching mechanism which can read 1k lines per 10 seconds<br/>
+    - Allows users to search for the correct data<br/>
+    - Includes REGEX, force_types, IP, CONTENT and more ways to search for the correct log<br/>
 
-#### Current Projects\
-Mecha Karen - A multifunctional discord bot\
-API - Allows other developers to do many things ranging from editing images to chatting with a self learning AI
+#### Current Projects<br/>
+Mecha Karen - A multifunctional discord bot<br/>
+API - Allows other developers to do many things ranging from editing images to chatting with a self learning AI<br/>
 
 Link to API - https://api.mechakaren.xyz/
