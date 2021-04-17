@@ -17,5 +17,8 @@ Created a private sourced graphical server monitoring system - G4S (soon to be r
 #### Current Projects<br/>
 Mecha Karen - A multifunctional discord bot<br/>
 API - Allows other developers to do many things ranging from editing images to chatting with a self learning AI<br/>
+IPC - A Python networking module with more to come!
 
 Link to API - https://api.mechakaren.xyz/
+
+![](https://komarev.com/ghpvc/?username=Seniatical)
