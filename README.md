@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Seniatical or Isa, i work for a private company called `Slitherins`.
+I am Seniatical.
 
 #### Current Projects<br/>
 [Mecha Karen](https://mechakaren.xyz/) - A multifunctional discord bot<br/>
