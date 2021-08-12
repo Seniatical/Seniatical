@@ -1,5 +1,10 @@
 ### Hi there 👋
-I am Seniatical.
+I am Seniatical. Founder and Developer of Mecha Karen.
+
+#### Languages I Know<br/>
+1. Python
+2. C/C++
+3. Java
 
 #### Current Projects<br/>
 [Mecha Karen](https://mechakaren.xyz/) - A multifunctional discord bot<br/>
