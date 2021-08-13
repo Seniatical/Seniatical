@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Seniatical. Founder and Developer of Mecha Karen.
+I am Seniatical and I procrastinate alot.\
+Founder and Developer of Mecha Karen.
 
 #### Languages I Know<br/>
 1. Python
