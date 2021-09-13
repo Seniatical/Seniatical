@@ -17,7 +17,7 @@ Founder and Developer of Mecha Karen.
 [Mecha Karen](https://mechakaren.xyz) - Bot, API, Documentation<br/>
 [Cake](https://github.com/Seniatical/Cake) - A maths lib, coming soon™️<br/>
 [Discord.py](https://github.com/Mecha-Karen/discord.py) - A fork to keep this amazing lib updated<br/>
-There probably more somewhere.
+Theres probably more somewhere.
 
 ![](https://komarev.com/ghpvc/?username=Seniatical)
 <p>
