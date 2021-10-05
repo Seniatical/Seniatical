@@ -15,7 +15,7 @@ Founder and Developer of Mecha Karen.
 
 #### Things I maintain
 [Mecha Karen](https://mechakaren.xyz) - Bot, API, Documentation<br/>
-[Cake](https://github.com/Seniatical/Cake) - A maths lib, coming soon™️<br/>
+[Cake](https://github.com/Seniatical/Cake) - An object-orientated math library, ALPHA Release<br/>
 [Discord.py](https://github.com/Mecha-Karen/discord.py) - A fork to keep this amazing lib updated<br/>
 Theres probably more somewhere.
 
