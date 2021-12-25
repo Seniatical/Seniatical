@@ -16,7 +16,7 @@ Founder and Developer of Mecha Karen.
 #### Things I maintain
 [Mecha Karen](https://mechakaren.xyz) - Bot, API, Documentation<br/>
 [Cake](https://github.com/Seniatical/Cake) - An object-orientated math library, ALPHA Release<br/>
-[Discord.py](https://github.com/Mecha-Karen/discord.py) - A fork to keep this amazing lib updated<br/>
+[Discord.py](https://github.com/Mecha-Karen/acord) - Acord is a wrapper for the discord API<br/>
 Theres probably more somewhere.
 
 ![](https://komarev.com/ghpvc/?username=Seniatical)
