@@ -7,16 +7,10 @@ Founder and Developer of Mecha Karen.
 2. C/C++
 3. Java
 
-#### Current Projects<br/>
-[Mecha Karen](https://mechakaren.xyz/) - A multifunctional discord bot<br/>
-[API](https://api.mechakaren.xyz) - Allows other developers to do many things ranging from editing images to chatting with a self learning AI<br/>
-[IPC](https://github.com/Seniatical/IPC) - A Python networking module with more to come!<br/>
-[PyPtero](https://github.com/Rapi-Dev/PyPtero) - A Wrapper for the pterodactyl API with both async and sync capabilities (W.I.P)
-
 #### Things I maintain
 [Mecha Karen](https://mechakaren.xyz) - Bot, API, Documentation<br/>
 [Cake](https://github.com/Seniatical/Cake) - An object-orientated math library, ALPHA Release<br/>
-[Discord.py](https://github.com/Mecha-Karen/acord) - Acord is a wrapper for the discord API<br/>
+[Acord](https://github.com/Mecha-Karen/acord) - Acord is a wrapper for the discord API<br/>
 Theres probably more somewhere.
 
 ![](https://komarev.com/ghpvc/?username=Seniatical)
