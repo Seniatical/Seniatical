@@ -1,17 +1,14 @@
 ### Hi there 👋
-I am Seniatical and I procrastinate alot.\
-Founder and Developer of Mecha Karen.
+I'm a Student from the UK.
 
-#### Languages I Know<br/>
-1. Python
-2. C/C++
-3. Java
-
-#### Things I maintain
+## Checkout some of my projects
 [Mecha Karen](https://mechakaren.xyz) - Bot, API, Documentation<br/>
 [Cake](https://github.com/Seniatical/Cake) - An object-orientated math library, ALPHA Release<br/>
 [Acord](https://github.com/Mecha-Karen/acord) - Acord is a wrapper for the discord API<br/>
-Theres probably more somewhere.
+[EzyCore](https://github.com/Seniatical) - A cache manager based off of PyDantic
+
+## GISTs
+[Univariate Polynomial Factorisation](https://gist.github.com/Seniatical/ebb3d897c2db18f7339cfd80e574c1de) - A method of factoring univariate polynomials
 
 ![](https://komarev.com/ghpvc/?username=Seniatical)
 <p>
