@@ -9,6 +9,7 @@ I'm a Student from the UK.
 
 ## GISTs
 [Univariate Polynomial Factorisation](https://gist.github.com/Seniatical/ebb3d897c2db18f7339cfd80e574c1de) - A method of factoring univariate polynomials
+
 [Solving squares using prime factor trees](https://gist.github.com/Seniatical/a0faddae10918cf0b74c123731951013) - A way of calculating square roots with prime factor trees
 
 ![](https://komarev.com/ghpvc/?username=Seniatical)
